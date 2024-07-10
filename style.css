@@ -37,6 +37,8 @@ body{
     cursor: pointer;
 
 }
+
+/*start first section*/
 .first-section{
     background-image: url(/assets/Hero-bg.png);
     height: 652px;
@@ -48,8 +50,6 @@ body{
     display:flex;
     flex-direction: column;
     align-items: center;
-
-
 }
 
 .content1 img{
@@ -74,9 +74,8 @@ body{
     width: 740px;
     margin-bottom: 32px;
     opacity: 0.7;
-
-    
 }
+
 .content1 a{
     padding: 21px 24px;
     border-radius: 8px;
@@ -88,6 +87,8 @@ body{
     line-height: 23px;
     text-decoration: none;
 }
+
+/*start second section*/
 .second-section{
     width: 1140px;
     border-radius: 16px;
@@ -152,7 +153,6 @@ body{
     line-height: 26px;
     margin-bottom: 32px;
     opacity: 0.7;
-
 }
 
 .body1-left button{
@@ -208,6 +208,7 @@ body{
     padding: 12px 20px;
 }
 
+/*start third section*/
 .third-section{
     width:1140px;
     margin:auto;
@@ -297,6 +298,8 @@ body{
     opacity: 0.7;
 
 }
+
+/*start fourth section*/
 .content4-body{
     width: 1140px;
     display: flex;
@@ -369,7 +372,7 @@ body{
 }
 
 
-
+/*start fifth section*/
 .fifth-section{
     background-image: url(/assets/handshake.jpg);
     background-position: center;
@@ -444,6 +447,9 @@ body{
     cursor: pointer;
 }
 
+
+
+/*start footer part*/
 .footer{
     margin: auto;
     padding: 32px 150px;
