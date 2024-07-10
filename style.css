@@ -3,6 +3,13 @@
     padding:0px;
 }
 
+.azeret-mono{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
 body{
     width: 1440px;
 }
