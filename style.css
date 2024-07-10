@@ -6,8 +6,7 @@
 .azeret-mono{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+    
   }
 
 body{
@@ -40,7 +39,7 @@ body{
 
 /*start first section*/
 .first-section{
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(./assets/Hero-bg.png);
     height: 652px;
     display: flex;
 }
@@ -271,9 +270,7 @@ body{
     align-items: center;
     margin: auto;
 }
-.content4{
 
-}
 .content4-head{
     display: flex;
     flex-direction: column;
@@ -374,7 +371,7 @@ body{
 
 /*start fifth section*/
 .fifth-section{
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     background-position: center;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.6);
